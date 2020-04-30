@@ -1,0 +1,12 @@
+ContinuousValuesFile	ContamW	2.1
+Sample	CVF	file
+01/01	12/31	
+2		
+FrontEntry-Heat	1 0
+FrontEntry-Cool	0 1
+1/1	0:00:00	        1	0
+4/30	24:00:00	1	0
+5/1	00:00:00	0	1
+9/30	24:00:00	0	1
+10/1	00:00:00	1	0
+12/31	24:00:00	1	0
